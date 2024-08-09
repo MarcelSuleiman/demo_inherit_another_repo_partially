@@ -1,4 +1,4 @@
 line
 second line
 --- new line after cherry pic clone
-
+line after squash
